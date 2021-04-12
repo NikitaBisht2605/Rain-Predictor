@@ -11,4 +11,3 @@ headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
 " >~/.streamlit/config.toml
-© 2021 GitHub, Inc.
