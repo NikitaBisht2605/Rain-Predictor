@@ -1,5 +1,5 @@
 streamlit==0.80.0
 pandas
 numpy 
-pickle==0.0.011
+pickle==0.0.11
 sklearn
